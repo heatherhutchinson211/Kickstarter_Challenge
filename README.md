@@ -13,6 +13,7 @@ I then created a line graph to visualize the theater outcomes vs launch dates, a
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/117620028/202964441-30bce308-e112-426c-bfc7-87ce21bcb9f0.png)
 
+As you can see, December was the month in which the number of failed and successful goals were closet to being the same, which leads me to believe that this was the most unsuccessful month based on overall launches.  May had the most successful launches, but it also was the month with the most failed laumches.  This is where this analysis may lack, because rather than showing percentages of failed, successful, and canclelled campaigns, it is only shoiwng the number.  May could have just been the month with the most campsigns overall which is why there were so many successes.  
 
 ### Analysis of Outcomes Based on Goals
 
